@@ -9,7 +9,6 @@ public class GuessTheNumber {
 
         System.out.println("Вам потрібно відгадати загадане комп'ютером число від 0 до 10 включно. Ви маєте на це 3 спроби.");
 
-
         for (int i = 0; i < 3; i++) {
             System.out.println("Спроба № " + count);
             count++;
